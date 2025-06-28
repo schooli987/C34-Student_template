@@ -20,6 +20,7 @@ TEXT_COLOR = (1, 1, 1, 1)
 BUTTON_TEXT_COLOR = (1, 1, 1, 1)
 
 
+#####################################APP LAYOUT ###############################################################3
 # --- Signup Screen ---
 def build_signup_screen():
     layout = BoxLayout(orientation='vertical', padding=40, spacing=20)
